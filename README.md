@@ -1,4 +1,4 @@
 The-Project
 ===========
 
-Project of an Implemention of Risk on Apple device.
+Implemention of Riskderivat on Apple device.
